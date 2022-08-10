@@ -32,7 +32,7 @@ class Solution:
             return True
         else:
             return False
-       
+        
 
     def is_queue_empty(self):
         """
